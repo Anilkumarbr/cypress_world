@@ -1,0 +1,43 @@
+{
+  "validDetails": {
+    "userName": "admin",
+    "password": "admin123",
+    "body": "Fixtures are a great way to mock data for responses to routes"
+  },
+  "invalidUserDetails": {
+    "userName": "invalidUser",
+    "password": "Password123",
+    "ErrorMsg": "Your username is invalid!"
+  },
+  "invalidPasswordDetails": {
+    "userName": "student",
+    "password": "wrongPassword",
+    "ErrorMsg": "Your password is invalid!"
+  },
+    "mobilePage": {
+      "userName": "anilkumar",
+      "countryName": "India",
+      "cityName": "Atp",
+      "cardNum":"123456",
+      "month":"feb",
+      "year":"2002"
+
+    },
+    "mobilePage1": {
+    "userName": "hlo",
+    "countryName": "India",
+    "cityName": "Ap",
+    "cardNum":"3456",
+    "month":"mar",
+    "year":"2003"
+
+  },
+  "Contact": {
+    "contactemail": "anlkumar143@gmail.com",
+    "contactname": "akhil",
+    "message": "I Am Not Able To Acheive The Goals Could You Please Help Me Reach Out Me"
+   
+
+  }
+}
+
