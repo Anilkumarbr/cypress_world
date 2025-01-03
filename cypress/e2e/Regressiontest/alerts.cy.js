@@ -12,6 +12,7 @@ cy.on('window:alert',(text)=>{
     //hlo the
     //kjshsdfhshf
     //lkshshgshfhdsh
+    //jnghghdfshghgdfhgdfhfh
 
 })
 cy.contains('Click for JS Confirm').click()
