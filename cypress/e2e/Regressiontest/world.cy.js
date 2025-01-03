@@ -7,6 +7,7 @@ describe("alerts",()=>{
         expect(text).contains("I am a JS Alert")
         //added a comment
         //hlo
+        //hello guys how are tyou
         //hlo the
     
     })
