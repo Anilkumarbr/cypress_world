@@ -3,6 +3,7 @@ describe("Handling Checkbox ",()=>{
         cy.visit("https://register.rediff.com/register/register.php?FormName=user_details")
         cy.get('[type="checkbox"]').check()
         cy.wait(9000)
+        //hlo the brand
         cy.get('[type="checkbox"]').uncheck()
 
     })

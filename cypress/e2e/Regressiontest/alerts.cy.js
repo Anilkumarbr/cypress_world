@@ -7,6 +7,7 @@ cy.on('window:alert',(text)=>{
     expect(text).contains("I am a JS Alert")
     //added a comment
     //hlo
+    //hlo the
 
 })
 cy.contains('Click for JS Confirm').click()
